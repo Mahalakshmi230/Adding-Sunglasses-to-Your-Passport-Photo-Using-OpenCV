@@ -1,5 +1,5 @@
 # Adding-Sunglasses-to-Your-Passport-Photo-Using-OpenCV
-    This repository demonstrates how to use image processing techniques to create a playful transformation, making ordinary photos look extraordinary. Whether you're a beginner exploring computer vision or just looking for a quirky project to try, this is for you!
+This repository demonstrates how to use image processing techniques to create a playful transformation, making ordinary photos look extraordinary. Whether you're a beginner exploring computer vision or just looking for a quirky project to try, this is for you!
 
 ## Features:
 1. Detects the face in an image.
@@ -20,7 +20,7 @@ Numpy for array manipulations
 
 2.Add your passport-sized photo to the images folder.
 
-Run the script to see your "cool" transformation!
+3.Run the script to see your "cool" transformation!
 
 ## program :
 
